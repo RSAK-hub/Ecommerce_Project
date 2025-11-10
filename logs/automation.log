@@ -1,0 +1,8 @@
+2025-11-10 07:53:19 INFO  TC001_AccountRegTest:14 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-10 07:53:19 DEBUG TC001_AccountRegTest:15 - This is a debug log message
+2025-11-10 07:53:19 INFO  TC001_AccountRegTest:22 - Clicked on MyAccount Link.. 
+2025-11-10 07:53:20 INFO  TC001_AccountRegTest:25 - Clicked on Register Link.. 
+2025-11-10 07:53:20 INFO  TC001_AccountRegTest:29 - Providing customer details...
+2025-11-10 07:53:22 INFO  TC001_AccountRegTest:42 - Validating expected message..
+2025-11-10 07:53:22 INFO  TC001_AccountRegTest:56 - Test passed
+2025-11-10 07:53:22 INFO  TC001_AccountRegTest:68 - ***** Finished TC001_AccountRegistrationTest *****
